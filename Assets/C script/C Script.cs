@@ -29,7 +29,7 @@ public class CScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        sr.flipX = true;
+        sr.flipX = false;
         int speed = 10;
         int jumpAmount = 5;
         anim.SetBool("Warrior Run", false);
@@ -93,10 +93,15 @@ public class CScript : MonoBehaviour
      
     }
 
-   
-    
+    private void OnCollisionEnter( Collider2D other )
+    {
 
-    
+    }
+
+
+
+
+
 
 
 

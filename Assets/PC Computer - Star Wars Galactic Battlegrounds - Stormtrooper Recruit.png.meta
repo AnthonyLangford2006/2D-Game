@@ -1,0 +1,6556 @@
+fileFormatVersion: 2
+guid: 44941895f093fc5438f45d7180d1476a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8638224023718671514
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_0
+  - first:
+      213: -1114495148884640842
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_1
+  - first:
+      213: 8483043424059292711
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_2
+  - first:
+      213: 1868708342847791977
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_3
+  - first:
+      213: -6443981796818971695
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_4
+  - first:
+      213: -4736179417576248285
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_5
+  - first:
+      213: 980432043996006124
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_6
+  - first:
+      213: 7521558013079881160
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_7
+  - first:
+      213: 7561681705479048640
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_8
+  - first:
+      213: 4368117873057561188
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_9
+  - first:
+      213: 2316410080107279387
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_10
+  - first:
+      213: -8643920153295061491
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_11
+  - first:
+      213: -2379519729329138617
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_12
+  - first:
+      213: 7031233242561132645
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_13
+  - first:
+      213: -2380610188296929770
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_14
+  - first:
+      213: -6963084640466088952
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_15
+  - first:
+      213: 5650476628157201301
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_16
+  - first:
+      213: -903217106227367179
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_17
+  - first:
+      213: -7914085946494773094
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_18
+  - first:
+      213: -3796457379643020024
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_19
+  - first:
+      213: -2477096310308124083
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_20
+  - first:
+      213: -4790611974314245222
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_21
+  - first:
+      213: -1858253756082164092
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_22
+  - first:
+      213: -1105321328774359959
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_23
+  - first:
+      213: -6512092024879297101
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_24
+  - first:
+      213: -6634191567022984690
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_25
+  - first:
+      213: -2320925246089701761
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_26
+  - first:
+      213: 3712525588682403947
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_27
+  - first:
+      213: 1122677757333338583
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_28
+  - first:
+      213: -2600560110274009907
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_29
+  - first:
+      213: 2975630106750673843
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_30
+  - first:
+      213: 3663232506210836847
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_31
+  - first:
+      213: 6126213021537826913
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_32
+  - first:
+      213: -3031460878703333074
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_33
+  - first:
+      213: -6773360881450537444
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_34
+  - first:
+      213: 6629078917917823969
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_35
+  - first:
+      213: 6601298647627390817
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_36
+  - first:
+      213: -5886569856589104394
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_37
+  - first:
+      213: -8024121801498551591
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_38
+  - first:
+      213: 408744022176845414
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_39
+  - first:
+      213: -8155292693474516239
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_40
+  - first:
+      213: -3295238290741355264
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_41
+  - first:
+      213: -1673187930569466644
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_42
+  - first:
+      213: -5142113322052101785
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_43
+  - first:
+      213: 1451646252072433933
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_44
+  - first:
+      213: -2924419826280486985
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_45
+  - first:
+      213: -8281302850043377372
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_46
+  - first:
+      213: -4065241677055659212
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_47
+  - first:
+      213: 7774368528502526639
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_48
+  - first:
+      213: 6683788393371890379
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_49
+  - first:
+      213: -1515311505517827166
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_50
+  - first:
+      213: -998463324918774880
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_51
+  - first:
+      213: -1138876056048262975
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_52
+  - first:
+      213: -8615510724005644545
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_53
+  - first:
+      213: -7254171328809041855
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_54
+  - first:
+      213: -8868130758902218943
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_55
+  - first:
+      213: 1280138872085804663
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_56
+  - first:
+      213: 4968043071402143985
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_57
+  - first:
+      213: -3892022083451489606
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_58
+  - first:
+      213: 4558404810950282565
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_59
+  - first:
+      213: -2134935902084591904
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_60
+  - first:
+      213: 5929993942809811059
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_61
+  - first:
+      213: 5379361281877410107
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_62
+  - first:
+      213: -2019922992140266756
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_63
+  - first:
+      213: -4206790001281137965
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_64
+  - first:
+      213: 5333676791801672026
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_65
+  - first:
+      213: 4500154069397146553
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_66
+  - first:
+      213: -7398873467794991577
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_67
+  - first:
+      213: 3503322071787854469
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_68
+  - first:
+      213: 4097872534270881510
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_69
+  - first:
+      213: -6433448509826165212
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_70
+  - first:
+      213: 184048499168313966
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_71
+  - first:
+      213: 6165134805847120843
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_72
+  - first:
+      213: 6320659074438531523
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_73
+  - first:
+      213: 8624740440446397732
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_74
+  - first:
+      213: 1013874731971866127
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_75
+  - first:
+      213: 1801273382225076031
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_76
+  - first:
+      213: 5833359266196549935
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_77
+  - first:
+      213: 1063202432746243205
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_78
+  - first:
+      213: -2570588140231717759
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_79
+  - first:
+      213: -4492504382777154469
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_80
+  - first:
+      213: -2887295172453023650
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_81
+  - first:
+      213: 8550976026693603080
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_82
+  - first:
+      213: 3935885208791389666
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_83
+  - first:
+      213: -2231488722334093201
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_84
+  - first:
+      213: -3146265405954179070
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_85
+  - first:
+      213: 2948888312318961817
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_86
+  - first:
+      213: -5020876648773772788
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_87
+  - first:
+      213: 697951673674313531
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_88
+  - first:
+      213: -3448194045527980366
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_89
+  - first:
+      213: 1328810580734102658
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_90
+  - first:
+      213: 8539301828541088973
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_91
+  - first:
+      213: 2459683050246521573
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_92
+  - first:
+      213: -5910765233444886511
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_93
+  - first:
+      213: 548349972161205456
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_94
+  - first:
+      213: -7923980246987813850
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_95
+  - first:
+      213: 1155481470253484394
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_96
+  - first:
+      213: 7450660950951309006
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_97
+  - first:
+      213: 6434850364636465294
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_98
+  - first:
+      213: -332825538297020352
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_99
+  - first:
+      213: -1068699842739532749
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_100
+  - first:
+      213: 2211247281881792213
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_101
+  - first:
+      213: 1403808059727020820
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_102
+  - first:
+      213: 3216296887085497854
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_103
+  - first:
+      213: -4093327154458150983
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_104
+  - first:
+      213: -7889909495276071705
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_105
+  - first:
+      213: -546904731048550126
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_106
+  - first:
+      213: 5336980165802902735
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_107
+  - first:
+      213: 6581464446365404574
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_108
+  - first:
+      213: -50173160803877515
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_109
+  - first:
+      213: 5132238883563118319
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_110
+  - first:
+      213: -1400585994046090989
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_111
+  - first:
+      213: 1153660758890439726
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_112
+  - first:
+      213: -6111067500871580594
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_113
+  - first:
+      213: -7757868673016108124
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_114
+  - first:
+      213: -495168204934323093
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_115
+  - first:
+      213: 5366732204232741266
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_116
+  - first:
+      213: 6202126485548996063
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_117
+  - first:
+      213: -6204656838123267958
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_118
+  - first:
+      213: 3210161517034825408
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_119
+  - first:
+      213: 9104551863062234280
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_120
+  - first:
+      213: 4455339004496067908
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_121
+  - first:
+      213: 754256653353539970
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_122
+  - first:
+      213: 5748907487298704539
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_123
+  - first:
+      213: 1558976716851921175
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_124
+  - first:
+      213: -6557114374564783987
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_125
+  - first:
+      213: 8568327073145031441
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_126
+  - first:
+      213: 4317272421996186718
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_127
+  - first:
+      213: -5603996812454435050
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_128
+  - first:
+      213: -8001421960836681949
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_129
+  - first:
+      213: 623462414654169083
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_130
+  - first:
+      213: -424771547147875986
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_131
+  - first:
+      213: -8413656753943139230
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_132
+  - first:
+      213: 4766634569396028927
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_133
+  - first:
+      213: 6763778001259731825
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_134
+  - first:
+      213: 8858965332773765957
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_135
+  - first:
+      213: -1130248051523657935
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_136
+  - first:
+      213: 9035336067666542220
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_137
+  - first:
+      213: -4852237332627552767
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_138
+  - first:
+      213: -7881166972229972763
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_139
+  - first:
+      213: 4567406748769710477
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_140
+  - first:
+      213: -1277967998001505070
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_141
+  - first:
+      213: 7291035065450338282
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_142
+  - first:
+      213: -2789724941867493199
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_143
+  - first:
+      213: -8453111255127936124
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_144
+  - first:
+      213: -9062217254846036537
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_145
+  - first:
+      213: 5919602109719761158
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_146
+  - first:
+      213: -6706231140402381314
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_147
+  - first:
+      213: -3516099315499619377
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_148
+  - first:
+      213: -71574602449327645
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_149
+  - first:
+      213: -216806767270945200
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_150
+  - first:
+      213: -4445088671657199931
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_151
+  - first:
+      213: -6218985906058983494
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_152
+  - first:
+      213: -8872039860281561568
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_153
+  - first:
+      213: 5161066027724483544
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_154
+  - first:
+      213: 1163082480762260902
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_155
+  - first:
+      213: -2729573148759567434
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_156
+  - first:
+      213: 2154329039031235637
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_157
+  - first:
+      213: 985844958019127598
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_158
+  - first:
+      213: -3009511516223699425
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_159
+  - first:
+      213: 2688547094104101029
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_160
+  - first:
+      213: -1305858466580297441
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_161
+  - first:
+      213: 8135982737558081451
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_162
+  - first:
+      213: 8960693623600924198
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_163
+  - first:
+      213: 209427350496782082
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_164
+  - first:
+      213: -2377595516646201060
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_165
+  - first:
+      213: -1737559773970837865
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_166
+  - first:
+      213: 6905809681613970172
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_167
+  - first:
+      213: 1539403382204854542
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_168
+  - first:
+      213: 1652206863293820422
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_169
+  - first:
+      213: 2189796454217665257
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_170
+  - first:
+      213: -7437384561002201585
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_171
+  - first:
+      213: 8435230921531382289
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_172
+  - first:
+      213: -6238269393396178322
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_173
+  - first:
+      213: -2144899734053602884
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_174
+  - first:
+      213: 751936442232134053
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_175
+  - first:
+      213: 7889862655219457959
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_176
+  - first:
+      213: 2895467023682204793
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_177
+  - first:
+      213: -8664889005415659927
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_178
+  - first:
+      213: 3318156439685867107
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_179
+  - first:
+      213: 5118316219394580192
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_180
+  - first:
+      213: -5018995038868439163
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_181
+  - first:
+      213: 1628882142409861800
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_182
+  - first:
+      213: 2779293913559126506
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_183
+  - first:
+      213: -1241923156951370078
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_184
+  - first:
+      213: -7639316549595527347
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_185
+  - first:
+      213: 2258515535857561640
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_186
+  - first:
+      213: 151788272433458180
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_187
+  - first:
+      213: -86287428704349055
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_188
+  - first:
+      213: 6351206472936974716
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_189
+  - first:
+      213: 3727025111884096597
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_190
+  - first:
+      213: -5056008932778885191
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_191
+  - first:
+      213: -2872451542544504692
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_192
+  - first:
+      213: -6949401601887984364
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_193
+  - first:
+      213: -8392196763663536001
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_194
+  - first:
+      213: 2128582719507174346
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_195
+  - first:
+      213: 478291631769349498
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_196
+  - first:
+      213: -7184725830662692500
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_197
+  - first:
+      213: 6302026614903462177
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_198
+  - first:
+      213: -9017719855410491809
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_199
+  - first:
+      213: 7896049764391912718
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_200
+  - first:
+      213: -3024102443707648292
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_201
+  - first:
+      213: -8597793703008315086
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_202
+  - first:
+      213: 8295377595066353585
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_203
+  - first:
+      213: 3786158396459080646
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_204
+  - first:
+      213: 3625456186171797896
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_205
+  - first:
+      213: -520546331829983826
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_206
+  - first:
+      213: -3870618429966931539
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_207
+  - first:
+      213: -9168181760133692988
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_208
+  - first:
+      213: -4016553442818069360
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_209
+  - first:
+      213: 4147686788597822140
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_210
+  - first:
+      213: -2221807755707288006
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_211
+  - first:
+      213: 7019091198047220179
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_212
+  - first:
+      213: 1365661190232294356
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_213
+  - first:
+      213: 8158500812392428275
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_214
+  - first:
+      213: -5704050507499630998
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_215
+  - first:
+      213: 2371650418077826125
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_216
+  - first:
+      213: -1439804944208122073
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_217
+  - first:
+      213: 6099040457900019012
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_218
+  - first:
+      213: -4160649292185572775
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_219
+  - first:
+      213: -8482841857530977410
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_220
+  - first:
+      213: -7613210199670005012
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_221
+  - first:
+      213: 1169638520348357516
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_222
+  - first:
+      213: 1061986261748536998
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_223
+  - first:
+      213: -7423987553783092591
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_224
+  - first:
+      213: 6481808510476951852
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_225
+  - first:
+      213: -4590801629902634515
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_226
+  - first:
+      213: 8607785437626849732
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_227
+  - first:
+      213: -5337341076277469127
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_228
+  - first:
+      213: -7445002027637565376
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_229
+  - first:
+      213: 2752781990074271996
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_230
+  - first:
+      213: 6771170670871863045
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_231
+  - first:
+      213: -8982939240677179666
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_232
+  - first:
+      213: -1284281086943668870
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_233
+  - first:
+      213: -7195068361448139501
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_234
+  - first:
+      213: -4095494379982561613
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_235
+  - first:
+      213: 4098670092672032798
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_236
+  - first:
+      213: -4247497530078821722
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_237
+  - first:
+      213: -1373107979015736064
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_238
+  - first:
+      213: -1170362082005708184
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_239
+  - first:
+      213: 3376656570241991430
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_240
+  - first:
+      213: -23173418463711940
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_241
+  - first:
+      213: 173086243505980490
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_242
+  - first:
+      213: -2283691186951274353
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_243
+  - first:
+      213: -8181401139616626730
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_244
+  - first:
+      213: -8344315274490747793
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_245
+  - first:
+      213: 4216007628577649457
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_246
+  - first:
+      213: 8873258393648700586
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_247
+  - first:
+      213: -2622803966823600647
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_248
+  - first:
+      213: -9102022483718759846
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_249
+  - first:
+      213: -1436883684621887435
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_250
+  - first:
+      213: 2208631722448799745
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_251
+  - first:
+      213: 6477099986989721347
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_252
+  - first:
+      213: -7313004864475245147
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_253
+  - first:
+      213: 4270699009410065726
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_254
+  - first:
+      213: -1237554212880181915
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_255
+  - first:
+      213: -8203529320721024324
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_256
+  - first:
+      213: -2941369961350604309
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_257
+  - first:
+      213: -3350741632372361369
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_258
+  - first:
+      213: 5222964087627589602
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_259
+  - first:
+      213: -1666461257273597751
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_260
+  - first:
+      213: -5774800836764771468
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_261
+  - first:
+      213: -8601695679728284891
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_262
+  - first:
+      213: -5605572350393952305
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_263
+  - first:
+      213: 1172204632920329807
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_264
+  - first:
+      213: 7663613165758694074
+    second: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_265
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a943ff77bf221e770800000000000000
+      internalID: 8638224023718671514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb5d221948880f0800000000000000
+      internalID: -1114495148884640842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c74419c03d9b570800000000000000
+      internalID: 8483043424059292711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 485
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9636044465cfee910800000000000000
+      internalID: 1868708342847791977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 485
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3958d82b06296a0800000000000000
+      internalID: -6443981796818971695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce9deb9e5b54eb0800000000000000
+      internalID: -4736179417576248285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6caccdfb13b9d00800000000000000
+      internalID: 980432043996006124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58e177921f16860800000000000000
+      internalID: 7521558013079881160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 486
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd06a7927d70f860800000000000000
+      internalID: 7561681705479048640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a71a0ff0cae9c30800000000000000
+      internalID: 4368117873057561188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14bdeae1ba852020800000000000000
+      internalID: 2316410080107279387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 485
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ef1040b60aa0880800000000000000
+      internalID: -8643920153295061491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 485
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7449d45d96f3afed0800000000000000
+      internalID: -2379519729329138617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56836cb8165f39160800000000000000
+      internalID: 7031233242561132645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eb2e195af56fed0800000000000000
+      internalID: -2380610188296929770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 486
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c4a0859672e5f90800000000000000
+      internalID: -6963084640466088952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 484
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bf4f84e868a6e40800000000000000
+      internalID: 5650476628157201301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 484
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2f24cc3d02773f0800000000000000
+      internalID: -903217106227367179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 484
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98944523c48b2290800000000000000
+      internalID: -7914085946494773094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 484
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80da771b026405bc0800000000000000
+      internalID: -3796457379643020024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 484
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a47ada7069f9dd0800000000000000
+      internalID: -2477096310308124083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 484
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9344468ac3548db0800000000000000
+      internalID: -4790611974314245222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 484
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eef26ed082636e0800000000000000
+      internalID: -1858253756082164092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_23
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 484
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ddb39b1c19a0f0800000000000000
+      internalID: -1105321328774359959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 484
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd4a605ec660a5a0800000000000000
+      internalID: -6512092024879297101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_25
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 484
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02f3b35bed9ee3a0800000000000000
+      internalID: -6634191567022984690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 485
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76569419ca6acfd0800000000000000
+      internalID: -2320925246089701761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_27
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 485
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6076f46a5a858330800000000000000
+      internalID: 3712525588682403947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_28
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 485
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9f51bd87d849f00800000000000000
+      internalID: 1122677757333338583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_29
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 485
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4211aab54f8ebd0800000000000000
+      internalID: -2600560110274009907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_30
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 484
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e4d701df8b4920800000000000000
+      internalID: 2975630106750673843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_31
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 484
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f616c564e8a66d230800000000000000
+      internalID: 3663232506210836847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_32
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1687227f84ea40550800000000000000
+      internalID: 6126213021537826913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f46664661ee5d0800000000000000
+      internalID: -3031460878703333074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e2d954a203002a0800000000000000
+      internalID: -6773360881450537444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_35
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3d58a47283ffb50800000000000000
+      internalID: 6629078917917823969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_36
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd81415268c9b50800000000000000
+      internalID: 6601298647627390817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_37
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fafb7067e3be4ea0800000000000000
+      internalID: -5886569856589104394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_38
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 486
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da16333cb794a090800000000000000
+      internalID: -8024121801498551591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_39
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 486
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e4ae5c5862ca500800000000000000
+      internalID: 408744022176845414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 430
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2ec1ef08492de80800000000000000
+      internalID: -8155292693474516239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 432
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d9816cb36f442d0800000000000000
+      internalID: -3295238290741355264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 430
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec9feb2174a7c8e0800000000000000
+      internalID: -1673187930569466644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 427
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d74c7d2b83a8b0800000000000000
+      internalID: -5142113322052101785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 426
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09fd4a3398452410800000000000000
+      internalID: 1451646252072433933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 427
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7217889af5a67d0800000000000000
+      internalID: -2924419826280486985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 429
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4290cb12fe6e21d80800000000000000
+      internalID: -8281302850043377372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 432
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433fbf8bb3c5597c0800000000000000
+      internalID: -4065241677055659212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 430
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa29e5e7cfa14eb60800000000000000
+      internalID: 7774368528502526639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 430
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc27fcca12691cc50800000000000000
+      internalID: 6683788393371890379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 431
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2c85d63888fae0800000000000000
+      internalID: -1515311505517827166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_51
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 431
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a306f465eeb422f0800000000000000
+      internalID: -998463324918774880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 430
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ab04d246e130f0800000000000000
+      internalID: -1138876056048262975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_53
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 430
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff63319b4ae8f6880800000000000000
+      internalID: -8615510724005644545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 431
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14083865c91045b90800000000000000
+      internalID: -7254171328809041855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_55
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 430
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ffae56f021ee480800000000000000
+      internalID: -8868130758902218943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 431
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776f7dd8587f3c110800000000000000
+      internalID: 1280138872085804663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_57
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 431
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0f3c30ad802f440800000000000000
+      internalID: 4968043071402143985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_58
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 430
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2f5e13982ccf9c0800000000000000
+      internalID: -3892022083451489606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_59
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 431
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8f1b2605b24f30800000000000000
+      internalID: 4558404810950282565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_60
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 431
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee0502cb1f2f52e0800000000000000
+      internalID: -2134935902084591904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_61
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 430
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378956192129b4250800000000000000
+      internalID: 5929993942809811059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_62
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 430
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b310bc4b59457aa40800000000000000
+      internalID: 5379361281877410107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_63
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 430
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2d5db9dbac7f3e0800000000000000
+      internalID: -2019922992140266756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_64
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 429
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d209f848ca7e95c0800000000000000
+      internalID: -4206790001281137965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_65
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 431
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51751a78c6050a40800000000000000
+      internalID: 5333676791801672026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_66
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 431
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb02f48842c37e30800000000000000
+      internalID: 4500154069397146553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_67
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 431
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726540e28cbe15990800000000000000
+      internalID: -7398873467794991577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_68
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 430
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a53b6ecdc4e9030800000000000000
+      internalID: 3503322071787854469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_69
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 431
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeab04cb519ed830800000000000000
+      internalID: 4097872534270881510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_70
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 431
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4269b0b8aacc7b6a0800000000000000
+      internalID: -6433448509826165212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_71
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 431
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620f56822fdd8200800000000000000
+      internalID: 184048499168313966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_72
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 428
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb1aee0175fe8550800000000000000
+      internalID: 6165134805847120843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_73
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 430
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9024e90fd77b750800000000000000
+      internalID: 6320659074438531523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_74
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 432
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de0c81cbb31b770800000000000000
+      internalID: 8624740440446397732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_75
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 429
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e6ded62b1021e00800000000000000
+      internalID: 1013874731971866127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_76
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 428
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f54eaf8986ff810800000000000000
+      internalID: 1801273382225076031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_77
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 429
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f0ec985144f050800000000000000
+      internalID: 5833359266196549935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_78
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 430
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584cb20caf041ce00800000000000000
+      internalID: 1063202432746243205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_79
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 431
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c08adb4bf635cd0800000000000000
+      internalID: -2570588140231717759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_80
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 362
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54aea0f01b67a1c0800000000000000
+      internalID: -4492504382777154469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 362
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50cc3496544ee7d0800000000000000
+      internalID: -2887295172453023650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_82
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 362
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f04f9246b2ba670800000000000000
+      internalID: 8550976026693603080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 362
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e599b28eb21f9630800000000000000
+      internalID: 3935885208791389666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_84
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 362
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f607cf874d82801e0800000000000000
+      internalID: -2231488722334093201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_85
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 362
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200400d68483654d0800000000000000
+      internalID: -3146265405954179070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_86
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 362
+        width: 19
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998a212db4e8ce820800000000000000
+      internalID: 2948888312318961817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_87
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 362
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a19c82a43425ab0800000000000000
+      internalID: -5020876648773772788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_88
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 362
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f2fbb695f9fa900800000000000000
+      internalID: 697951673674313531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_89
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 362
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b600bfe8cd8520d0800000000000000
+      internalID: -3448194045527980366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_90
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 362
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ccf6ece22e07210800000000000000
+      internalID: 1328810580734102658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_91
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 362
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4090815c1b18670800000000000000
+      internalID: 8539301828541088973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_92
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 362
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e24ef5c3bc822220800000000000000
+      internalID: 2459683050246521573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_93
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 362
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e9c5365eb8fda0800000000000000
+      internalID: -5910765233444886511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_94
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 362
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d49347f4612c9700800000000000000
+      internalID: 548349972161205456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_95
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 362
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c441bc2fd580290800000000000000
+      internalID: -7923980246987813850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_96
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 362
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6941037648190010800000000000000
+      internalID: 1155481470253484394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_97
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 362
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea35bd8a0166760800000000000000
+      internalID: 7450660950951309006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_98
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 377
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8803f6305e2d4950800000000000000
+      internalID: 6434850364636465294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_99
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 362
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c0a1bfe0916bf0800000000000000
+      internalID: -332825538297020352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_100
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 362
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c8efdb7273b21f0800000000000000
+      internalID: -1068699842739532749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_101
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 362
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5debc1befadefae10800000000000000
+      internalID: 2211247281881792213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_102
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 362
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130cdc1ef35b7310800000000000000
+      internalID: 1403808059727020820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_103
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 362
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdfce66af492ac20800000000000000
+      internalID: 3216296887085497854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_104
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 362
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7bf01f3a49137c0800000000000000
+      internalID: -4093327154458150983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 298
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e49618dd19618290800000000000000
+      internalID: -7889909495276071705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_106
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 298
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211eed37b010968f0800000000000000
+      internalID: -546904731048550126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_107
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 298
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4ccfb2f23c01a40800000000000000
+      internalID: 5336980165802902735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_108
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 298
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d097b3b0f065b50800000000000000
+      internalID: 6581464446365404574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_109
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 298
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db60da6cfbd4ff0800000000000000
+      internalID: -50173160803877515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_110
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 298
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee1a35a210693740800000000000000
+      internalID: 5132238883563118319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_111
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 298
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311de73857e109ce0800000000000000
+      internalID: -1400585994046090989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_112
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 298
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24e8fc0950a20010800000000000000
+      internalID: 1153660758890439726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_113
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 324
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e448d1c5c70213ba0800000000000000
+      internalID: -6111067500871580594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_114
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 298
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab6eba7b83865490800000000000000
+      internalID: -7757868673016108124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_115
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 298
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6462d0242fc029f0800000000000000
+      internalID: -495168204934323093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_116
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 298
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29111fd61867a7a40800000000000000
+      internalID: 5366732204232741266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_117
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 298
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd59037ad21621650800000000000000
+      internalID: 6202126485548996063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_118
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 298
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88d67aba71a4e9a0800000000000000
+      internalID: -6204656838123267958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_119
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 298
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c66d7e34e8cc8c20800000000000000
+      internalID: 3210161517034825408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_120
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 298
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a402f47eadd95e70800000000000000
+      internalID: 9104551863062234280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_121
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 298
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d3eec183b84dd30800000000000000
+      internalID: 4455339004496067908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_122
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 298
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289dc941e68a77a00800000000000000
+      internalID: 754256653353539970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_123
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 298
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94d50396e838cf40800000000000000
+      internalID: 5748907487298704539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_124
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 298
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711401d601992a510800000000000000
+      internalID: 1558976716851921175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_125
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 298
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d885578a7337005a0800000000000000
+      internalID: -6557114374564783987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_126
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 298
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b0c2a7310d8e670800000000000000
+      internalID: 8568327073145031441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_127
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 298
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4ca7d4680aeb30800000000000000
+      internalID: 4317272421996186718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_128
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 298
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6176b3f179a9a32b0800000000000000
+      internalID: -5603996812454435050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_129
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 298
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe156be1d35f090800000000000000
+      internalID: -8001421960836681949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_130
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 234
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffd44c43cbf6a800800000000000000
+      internalID: 623462414654169083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_131
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 234
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69ce854788ea1af0800000000000000
+      internalID: -424771547147875986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_132
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 234
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c272f72cfac3b80800000000000000
+      internalID: -8413656753943139230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_133
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 234
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff582fad2ec762240800000000000000
+      internalID: 4766634569396028927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 234
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b10b09144cddd50800000000000000
+      internalID: 6763778001259731825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_135
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 234
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5430b79880e51fa70800000000000000
+      internalID: 8858965332773765957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_136
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 234
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fdadca26d8050f0800000000000000
+      internalID: -1130248051523657935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_137
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 234
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ef9834846f36d70800000000000000
+      internalID: 9035336067666542220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_138
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 234
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10688deaad369acb0800000000000000
+      internalID: -4852237332627552767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_139
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 234
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec01bc156870a290800000000000000
+      internalID: -7881166972229972763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_140
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 234
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f3252d30b26f30800000000000000
+      internalID: 4567406748769710477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_141
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 234
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc9dc470eeb34ee0800000000000000
+      internalID: -1277967998001505070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_142
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 234
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7951133c5fe2560800000000000000
+      internalID: 7291035065450338282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_143
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 234
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8d0fa22f7e849d0800000000000000
+      internalID: -2789724941867493199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_144
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 234
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4833e37991480ba80800000000000000
+      internalID: -8453111255127936124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_145
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 234
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c58c7f9b698c3280800000000000000
+      internalID: -9062217254846036537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_146
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 234
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601df7161c6a62250800000000000000
+      internalID: 5919602109719761158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_147
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 234
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd37a61f4eaee2a0800000000000000
+      internalID: -6706231140402381314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_148
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 234
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcba6a83d4e443fc0800000000000000
+      internalID: -3516099315499619377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_149
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 234
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9611e3747b10ff0800000000000000
+      internalID: -71574602449327645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_150
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 234
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e1ae3d46fbdfcf0800000000000000
+      internalID: -216806767270945200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_151
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 234
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c672ca776fdf42c0800000000000000
+      internalID: -4445088671657199931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_152
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 169
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7813e9449b1b9a0800000000000000
+      internalID: -6218985906058983494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_153
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 169
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eafcec0ce20e480800000000000000
+      internalID: -8872039860281561568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_154
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 169
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbaadc253acf9740800000000000000
+      internalID: 5161066027724483544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_155
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 169
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad805e9a59142010800000000000000
+      internalID: 1163082480762260902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_156
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 169
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3ddbfdeab9e1ad0800000000000000
+      internalID: -2729573148759567434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_157
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 169
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534f3ccc8d6b5ed10800000000000000
+      internalID: 2154329039031235637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_158
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 169
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29075e14cc6ead00800000000000000
+      internalID: 985844958019127598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_159
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 169
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f160a0898311c36d0800000000000000
+      internalID: -3009511516223699425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_160
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 169
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0dbf96653af4520800000000000000
+      internalID: 2688547094104101029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_161
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 169
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198b84b4a8a0ede0800000000000000
+      internalID: -1305858466580297441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_162
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 169
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0cda8131d8e070800000000000000
+      internalID: 8135982737558081451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_163
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 169
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62647d7ff57ca5c70800000000000000
+      internalID: 8960693623600924198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_164
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 171
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ac90d01908e200800000000000000
+      internalID: 209427350496782082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_165
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 169
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19edb28975110fd0800000000000000
+      internalID: -2377595516646201060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_166
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 171
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec5707792f2e7e0800000000000000
+      internalID: -1737559773970837865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_167
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 169
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfadd0f115d56df50800000000000000
+      internalID: 6905809681613970172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_168
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 169
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01fa52583f0d5510800000000000000
+      internalID: 1539403382204854542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_169
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 169
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e271e6361dde610800000000000000
+      internalID: 1652206863293820422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_170
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 169
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eacd08e548b36e10800000000000000
+      internalID: 2189796454217665257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_171
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 169
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e3d7f852a19c890800000000000000
+      internalID: -7437384561002201585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_172
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 169
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ad444d4d5ff0570800000000000000
+      internalID: 8435230921531382289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_173
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 169
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62ed69d9073d69a0800000000000000
+      internalID: -6238269393396178322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_174
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 169
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9b7e85e09cb32e0800000000000000
+      internalID: -2144899734053602884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_175
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 169
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9dae4d53a6f6a00800000000000000
+      internalID: 751936442232134053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_176
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 169
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd9fa584c6e7d60800000000000000
+      internalID: 7889862655219457959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_177
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 169
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747f6dcae3ce2820800000000000000
+      internalID: 2895467023682204793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_178
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 103
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966030eab5120c780800000000000000
+      internalID: -8664889005415659927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_179
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366a6a893b57c0e20800000000000000
+      internalID: 3318156439685867107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_180
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 110
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee5229cb79e70740800000000000000
+      internalID: 5118316219394580192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_181
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f7cca9a92f85ab0800000000000000
+      internalID: -5018995038868439163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 110
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa2157ada3fa9610800000000000000
+      internalID: 1628882142409861800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_183
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1d81cc619029620800000000000000
+      internalID: 2779293913559126506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_184
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 103
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f49ff77dc3cee0800000000000000
+      internalID: -1241923156951370078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_185
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 103
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47889ea212bbf590800000000000000
+      internalID: -7639316549595527347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_186
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 103
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820bd7ae9ebd75f10800000000000000
+      internalID: 2258515535857561640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_187
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 103
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c677b21a24b1200800000000000000
+      internalID: 151788272433458180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_188
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 103
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184de7f6a027dcef0800000000000000
+      internalID: -86287428704349055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_189
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 103
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79e19213a4042850800000000000000
+      internalID: 6351206472936974716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_190
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 103
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554efc6b79d09b330800000000000000
+      internalID: 3727025111884096597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_191
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 103
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf338cd9a275d9b0800000000000000
+      internalID: -5056008932778885191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_192
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 103
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88ac1c7a800328d0800000000000000
+      internalID: -2872451542544504692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_193
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 103
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415afe50014ce8f90800000000000000
+      internalID: -6949401601887984364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_194
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 103
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70f6a8d18de88b80800000000000000
+      internalID: -8392196763663536001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_195
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 103
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39247a4be3a8d10800000000000000
+      internalID: 2128582719507174346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_196
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 103
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d67aa74bb33a600800000000000000
+      internalID: 478291631769349498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_197
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 103
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e6ce5ce9ba4c90800000000000000
+      internalID: -7184725830662692500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_198
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 108
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129d06211db457750800000000000000
+      internalID: 6302026614903462177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_199
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 103
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e4546c19f9ad280800000000000000
+      internalID: -9017719855410491809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_200
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 103
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e050367fc67649d60800000000000000
+      internalID: 7896049764391912718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_201
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 103
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd63a6e89da3806d0800000000000000
+      internalID: -3024102443707648292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_202
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 103
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23959102e208ea880800000000000000
+      internalID: -8597793703008315086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_203
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 103
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70aafc8f91f1370800000000000000
+      internalID: 8295377595066353585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_204
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 103
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb5e4c60032b8430800000000000000
+      internalID: 3786158396459080646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_205
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 37
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881338d5135305230800000000000000
+      internalID: 3625456186171797896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_206
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 37
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea524228ed5a6c8f0800000000000000
+      internalID: -520546331829983826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 37
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9adbc9b0dc84ac0800000000000000
+      internalID: -3870618429966931539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_208
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 37
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c10407a34314c080800000000000000
+      internalID: -9168181760133692988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_209
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 37
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce473ace55248c0800000000000000
+      internalID: -4016553442818069360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_210
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb234f9a82b8f8930800000000000000
+      internalID: 4147686788597822140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_211
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 37
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fbd92e9d8a21e0800000000000000
+      internalID: -2221807755707288006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_212
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 37
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1fca18142d86160800000000000000
+      internalID: 7019091198047220179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_213
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 37
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3455fed9dc3f210800000000000000
+      internalID: 1365661190232294356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_214
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 37
+        width: 19
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2f2666341d83170800000000000000
+      internalID: 8158500812392428275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_215
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 37
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e0997e84427d0b0800000000000000
+      internalID: -5704050507499630998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_216
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 37
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c7fec5d7bc9e020800000000000000
+      internalID: 2371650418077826125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_217
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 37
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72faf9a1809c40ce0800000000000000
+      internalID: -1439804944208122073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_218
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 37
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dcddb7bf424a450800000000000000
+      internalID: 6099040457900019012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_219
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 37
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a6c4843876246c0800000000000000
+      internalID: -4160649292185572775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_220
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 37
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e732d0c4644e64a80800000000000000
+      internalID: -8482841857530977410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_221
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 37
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e940f8a1785690800000000000000
+      internalID: -7613210199670005012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_222
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 37
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c833af889046b3010800000000000000
+      internalID: 1169638520348357516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_223
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 37
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6dddfd0eeecbe00800000000000000
+      internalID: 1061986261748536998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_224
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 37
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a66df57a2b8f890800000000000000
+      internalID: -7423987553783092591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_225
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2125198f7204f950800000000000000
+      internalID: 6481808510476951852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_226
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 37
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de18e5f9d323a40c0800000000000000
+      internalID: -4590801629902634515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_227
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 56
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95780ef3ff47770800000000000000
+      internalID: 8607785437626849732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_228
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 37
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930616fc194fde5b0800000000000000
+      internalID: -5337341076277469127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_229
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 47
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0489996e91a0ea890800000000000000
+      internalID: -7445002027637565376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_230
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 47
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8487692a8d33620800000000000000
+      internalID: 2752781990074271996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_231
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f5cd699d708fd50800000000000000
+      internalID: 6771170670871863045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_232
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef480ba50365380800000000000000
+      internalID: -8982939240677179666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_233
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7558f4e7215d2ee0800000000000000
+      internalID: -1284281086943668870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_234
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 10
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3155b35427bf52c90800000000000000
+      internalID: -7195068361448139501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_235
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bed78d6f81e927c0800000000000000
+      internalID: -4095494379982561613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_236
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10eb3dcbb661e830800000000000000
+      internalID: 4098670092672032798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_237
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 8
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a28d47208bdd05c0800000000000000
+      internalID: -4247497530078821722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_238
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 3
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0053380719db1fce0800000000000000
+      internalID: -1373107979015736064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_239
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862967323e902cfe0800000000000000
+      internalID: -1170362082005708184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_240
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 3
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60343c5a24b4cde20800000000000000
+      internalID: 3376656570241991430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_241
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d2d3016ebadaff0800000000000000
+      internalID: -23173418463711940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_242
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 3
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444eab750de66200800000000000000
+      internalID: 173086243505980490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_243
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 3
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80441907f2be40e0800000000000000
+      internalID: -2283691186951274353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_244
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 3
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7cc2ca203d57e80800000000000000
+      internalID: -8181401139616626730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_245
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 3
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64ec1ac779033c80800000000000000
+      internalID: -8344315274490747793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_246
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13335bfc994428a30800000000000000
+      internalID: 4216007628577649457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_247
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 11
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac1fa91f75242b70800000000000000
+      internalID: 8873258393648700586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_248
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd6ef930bde99bd0800000000000000
+      internalID: -2622803966823600647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_249
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a135096ce1fa180800000000000000
+      internalID: -9102022483718759846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_250
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538de8ad6e92f0ce0800000000000000
+      internalID: -1436883684621887435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_251
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 10
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108483889d2a6ae10800000000000000
+      internalID: 2208631722448799745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_252
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307a53bfe1843e950800000000000000
+      internalID: 6477099986989721347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_253
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5df3c52dcf28a90800000000000000
+      internalID: -7313004864475245147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_254
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35ef763f12944b30800000000000000
+      internalID: 4270699009410065726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_255
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 13
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5651dfe000353dee0800000000000000
+      internalID: -1237554212880181915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_256
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 3
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbafbe50c85372e80800000000000000
+      internalID: -8203529320721024324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_257
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be951bcaa972e27d0800000000000000
+      internalID: -2941369961350604309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_258
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 9
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76735540d36cf71d0800000000000000
+      internalID: -3350741632372361369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_259
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e72aad4a22bb7840800000000000000
+      internalID: 5222964087627589602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_260
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a148d05a8fd8e0800000000000000
+      internalID: -1666461257273597751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_261
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bd1043c39cbdfa0800000000000000
+      internalID: -5774800836764771468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_262
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b88cf5a53a0a880800000000000000
+      internalID: -8601695679728284891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_263
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7540c95a10532b0800000000000000
+      internalID: -5605572350393952305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_264
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e884d27e1844010800000000000000
+      internalID: 1172204632920329807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Star Wars Galactic Battlegrounds - Stormtrooper Recruit_265
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2cd09129f9a5a60800000000000000
+      internalID: 7663613165758694074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

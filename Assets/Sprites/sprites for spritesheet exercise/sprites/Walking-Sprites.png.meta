@@ -356,7 +356,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Walking-Sprites_0: 1690183116474525277
+      Walking-Sprites_1: -6421601040605799613
+      Walking-Sprites_2: 8447261460579698774
+      Walking-Sprites_3: -3146194927045029052
+      Walking-Sprites_4: 8789867881342308109
+      Walking-Sprites_5: -7092146115723955336
+      Walking-Sprites_6: -252514170461455240
+      Walking-Sprites_7: -3923296526464918021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

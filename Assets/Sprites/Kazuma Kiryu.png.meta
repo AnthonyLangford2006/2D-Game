@@ -188,7 +188,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kazuma Kiryu_0: -6828710929070648715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
