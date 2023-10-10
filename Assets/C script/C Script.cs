@@ -23,21 +23,21 @@ public class CScript : MonoBehaviour
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+        Helper = gameObject.AddComponent<Helper>
     }
 
 
     // Update is called once per frame
     void Update()
     {
-        sr.flipX = false;
-        int speed = 10;
+        
         int jumpAmount = 5;
         anim.SetBool("Warrior Run", false);
         anim.SetBool("Warrior Jump", false);
 
 
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.AddForce(Vector2.up * jumpAmount, ForceMode2D.Impulse);
             print("Player pressed space");
@@ -64,6 +64,7 @@ public class CScript : MonoBehaviour
     {
         if (Input.GetKey("left") == true)
         {
+            int speed = 4;
             print("Player pressed left");
             transform.position = new Vector2(transform.position.x - (speed * Time.deltaTime), transform.position.y);
             anim.SetBool("Warrior Run", true);
@@ -72,6 +73,8 @@ public class CScript : MonoBehaviour
 
         if (Input.GetKey("right") == true)
         {
+            int speed = 4;
+            anim.speed = 2;
             print("Player pressed right");
             transform.position = new Vector2(transform.position.x + (speed * Time.deltaTime), transform.position.y);
             anim.SetBool("Warrior Run", true);
