@@ -32,7 +32,9 @@ public class Helper : MonoBehaviour
 
     void DoRayCollisionCheck()
     {
-        float rayLength = 0.5f; 
+        float rayLength = 0.2f; 
+
+        Vector3 offset = new Vector3(0, -0.5f )
 
 
         RaycastHit2D hit;
@@ -51,7 +53,29 @@ public class Helper : MonoBehaviour
         Debug.DrawRay(transform.position, -Vector2.up * rayLength, hitColor);
 
     }
- 
+
+    public LayerMask groundLayer;
+
+    bool IsGrounded()
+    {
+        Vector2 position = transform.position;
+        Vector2 direction = Vector2.down;
+        float distance = 1.0f;
+
+        RaycastHit2D hit = Physics2D.Raycast(position, direction, distance, groundLayer);
+        if (hit.collider != null)
+        {
+            return true;
+        }
+
+        return false;
+    }
+
+
+
+   
+
+   
 
 
 
